@@ -1,1 +1,1 @@
-# dimensionality_reduction_on_hyperspectral_image
+# Dimensionality Reduction on Hyperspectral Image
