@@ -7,12 +7,12 @@
 
 *Step 1: Calculate the mean and standard deviation for each feature.*
 
-*Step 2: Calculate the covariance matrix for the whole dataset*
+*Step 2: Calculate the covariance matrix for the whole dataset.*
 
 *Step 3: Compute eigenvalues and eigenvectors of the covariance matrix.*
 
 *Step 4: Sort the eigenvalues and eigenvectors.*
 
-*Step 5: Create an eigenvector matrix with k eigenvalues..*
+*Step 5: Create an eigenvector matrix with k eigenvalues.*
 
-*Step 6: Transformed the original datasets*
+*Step 6: Transformed the original datasets.*
