@@ -16,3 +16,10 @@
 *Step 5: Create an eigenvector matrix with k eigenvalues.*
 
 *Step 6: Transformed the original datasets.*
+
+
+## Code Explaination
+
+**The hyperspectral image is read using the scipy library. 
+**The RGB bands of Hyperspectral Image are displayed using spectral python.
+**The PCA is applied on HSI using sklearn.
