@@ -1,4 +1,4 @@
-# Dimensionality Reduction on Hyperspectral Image
+# Dimensionality Reduction Technique on Hyperspectral Image
 **The basic intuition of dimensionality reduction techniques is to reduce computation complexity and the size of data.**
 ## Principal Component Analysis (PCA)
 **PCA is a mathematical algorithm that reduces the dimensionality of the data while retaining most of the variation in the data set.**
@@ -23,3 +23,8 @@
 * The hyperspectral image is read using the scipy library. 
 * The RGB bands of Hyperspectral Image are displayed using spectral python.
 * The PCA is applied on HSI using sklearn.
+
+## Data availability
+
+* The data is publicly available on the below link:
+
