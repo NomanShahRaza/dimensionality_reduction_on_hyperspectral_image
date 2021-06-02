@@ -26,5 +26,5 @@
 
 ## Data availability
 
-* The data is publicly available on the below link:
+* The data is publicly available on the below link: http://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
 
