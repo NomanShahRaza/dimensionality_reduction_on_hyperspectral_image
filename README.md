@@ -18,8 +18,8 @@
 *Step 6: Transformed the original datasets.*
 
 
-## Code Explaination
+## Code Explanation
 
-**The hyperspectral image is read using the scipy library. 
-**The RGB bands of Hyperspectral Image are displayed using spectral python.
-**The PCA is applied on HSI using sklearn.
+* The hyperspectral image is read using the scipy library. 
+* The RGB bands of Hyperspectral Image are displayed using spectral python.
+* The PCA is applied on HSI using sklearn.
